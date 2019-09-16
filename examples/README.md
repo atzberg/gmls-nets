@@ -1,0 +1,1 @@
+For more information on how to use this package, you can read the [Documentation](http://web.math.ucsb.edu/~atzberg/gmlsnets_docs/html/index.html) or look at the [Examples](https://github.com/atzberg/gmls-nets/tree/master/examples).
