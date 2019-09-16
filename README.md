@@ -18,11 +18,13 @@ Available from PyPi you can install as
 
 Download the [gmlsnets_pytorch-1.0.0.tar.gz](https://github.com/atzberg/gmls-nets-testing/blob/master/gmlsnets_pytorch-1.0.0.tar.gz) file above, then uncompress 
 
-> tar -xvf gmlsnets_pytorch-1.0.0.tar.gz 
+``tar -xvf gmlsnets_pytorch-1.0.0.tar.gz`` 
 
 For local install, please be sure to edit in your codes the path location of base directory by adding
 
-> sys.path.append('package-path-location-here'); 
+``sys.path.append('package-path-location-here');`` 
+
+Note the package resides in the sub-directory ``./gmlsnets_pytorch-1.0.0/gmlsnets_pytorch/``
 
 __Packages__ 
 
