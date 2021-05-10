@@ -6,15 +6,17 @@
 
 __PyTorch implementation of GMLS-Nets.__
 
-__Installation__
-
-*Method 1:* 
+__Quick Start__
 
 Available from PyPi you can install as
 
 ```pip install gmlsnets-pytorch```
 
-*Method 2:*
+For information on use of the package see the [examples page](https://github.com/atzberg/gmls-nets/tree/master/examples) and [documentation page](https://github.com/atzberg/gmls-nets/tree/master/docs).
+
+__Manual Installation__
+
+*Method 1:*
 
 Download the [gmlsnets_pytorch-1.0.0.tar.gz](https://github.com/atzberg/gmls-nets-testing/blob/master/gmlsnets_pytorch-1.0.0.tar.gz) file above, then uncompress 
 
