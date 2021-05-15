@@ -6,7 +6,7 @@
 
 __GMLS-Nets (PyTorch Implementation)__
 
-Package provides machine learning methods for learning features from scattered unstructured data sets using Generalized Moving Least Squares (GMLS).  Provides techniques which can be used to generalize approaches such as Convolutional Neural Networks (CNNs), which utilize translational and other symmetry, to unstructured scattered data.  GMLS-Nets package provides approacheas also for learning differential operators and other features from scattered data.  
+Package provides machine learning methods for learning features from scattered unstructured data sets using Generalized Moving Least Squares (GMLS).  Provides techniques which can be used to generalize approaches, such as Convolutional Neural Networks (CNNs) which utilize translational and other symmetry, to unstructured scattered data.  GMLS-Nets package provides approacheas also for learning differential operators and other features from scattered data.  
 
 __Quick Start__
 
