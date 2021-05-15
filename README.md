@@ -8,7 +8,7 @@ __PyTorch implementation of GMLS-Nets.__
 
 __Quick Start__
 
-Install from PyPi using
+Install for Python using
 
 ```pip install gmlsnets-pytorch```
 
