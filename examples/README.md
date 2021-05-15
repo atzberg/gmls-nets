@@ -2,7 +2,7 @@ For more information on how to use this package, see the example Jupyter noteboo
 [documentation page](http://web.math.ucsb.edu/~atzberg/gmlsnets_docs/html/index.html)
 
 <p align="center">
-<img src="z_doc_img/diff_op_2d_1.png" width="48%"> 
-<img src="z_doc_img/diff_op_1d_1.png" width="48%"> 
+<img src="z_doc_img/diff_op_2d_1.png" width="49%"> 
+<img src="z_doc_img/diff_op_1d_1.png" width="49%"> 
 </p>
 
