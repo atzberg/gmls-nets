@@ -2,6 +2,6 @@ For more information on how to use this package, see the example Jupyter noteboo
 [documentation page](http://web.math.ucsb.edu/~atzberg/gmlsnets_docs/html/index.html)
 
 <p align="left">
-<img src="z_doc_img/diff_op_2d.png" width="30%"> 
+<img src="z_doc_img/diff_op_2d.png" width="40%"> 
 </p>
 
