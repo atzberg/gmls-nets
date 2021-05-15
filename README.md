@@ -4,7 +4,9 @@
 <img src="misc/overview.png" width = "100%" />
 </div>
 
-__PyTorch implementation of GMLS-Nets.__
+__GMLS-Nets (PyTorch Implementation)__
+
+Package provides machine learning methods for learning features from scattered unstructured data sets.  Provides techniques generalizing methods such as Convolutional Neural Networks (CNNs), which utilize translational and other symmetries, to unstructured scattered data.  Methods provided for learning differential operators and other features from scattered data.  
 
 __Quick Start__
 
