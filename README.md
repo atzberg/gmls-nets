@@ -10,6 +10,8 @@ Package provides machine learning methods for learning features from scattered u
 
 __Quick Start__
 
+*Method 1:*
+
 Install for Python using
 
 ```pip install gmlsnets-pytorch```
@@ -18,7 +20,7 @@ For use of the package see the [examples page](https://github.com/atzberg/gmls-n
 
 __Manual Installation__
 
-*Method 1:*
+*Method 2:*
 
 Download the [gmlsnets_pytorch-1.0.0.tar.gz](https://github.com/atzberg/gmls-nets-testing/blob/master/gmlsnets_pytorch-1.0.0.tar.gz) file above, then uncompress 
 
