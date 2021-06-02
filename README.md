@@ -62,6 +62,9 @@ N. Trask, R. G. Patel, B. J. Gross, and P. J. Atzberger, arXiv:1909.05371, (2019
 ```
 For [TensorFlow](https://www.tensorflow.org/) implementation of GMLS-Nets, see https://github.com/rgp62/gmls-nets.
 
+__Acknowledgements__
+We gratefully acknowledge support from DOE Grant ASCR PHILMS DE-SC0019246.
+
 ----
 
 [Examples](https://github.com/atzberg/gmls-nets/tree/master/examples) | [Documentation](http://web.math.ucsb.edu/~atzberg/gmlsnets_docs/html/index.html) | [Atzberger Homepage](http://atzberger.org/)
