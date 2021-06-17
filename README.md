@@ -16,7 +16,7 @@ __Quick Start__
 
 For use of the package see the [examples page](https://github.com/atzberg/gmls-nets/tree/master/examples).  For getting the latest version use ```pip install --upgrade gmlsnets-pytorch```.  More information on the structure of the package also can be found on the [documentation page](https://github.com/atzberg/gmls-nets/tree/master/docs).
 
-If previously installed the package, please update to the latest version using ``pip install --upgrade gmlsnets-pytorch```
+If previously installed the package, please update to the latest version using ```pip install --upgrade gmlsnets-pytorch```
 
 __Manual Installation__
 
