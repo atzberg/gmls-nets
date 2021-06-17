@@ -10,7 +10,7 @@ Package provides machine learning methods for learning features from scattered u
 
 __Quick Start__
 
-*Method 1:* Install for Python using
+*Method 1:* Install for python using pip
 
 ```pip install gmlsnets-pytorch```
 
