@@ -67,4 +67,5 @@ We gratefully acknowledge support from DOE Grant ASCR PHILMS DE-SC0019246.
 
 ----
 
+
 [Examples](https://github.com/atzberg/gmls-nets/tree/master/examples) | [Documentation](http://web.math.ucsb.edu/~atzberg/gmlsnets_docs/html/index.html) | [Atzberger Homepage](http://atzberger.org/)
