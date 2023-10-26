@@ -1,5 +1,5 @@
 """
-  Collection of codes for generating some training data sets.
+  Collection of codes for generating some training data sets.  
 """
 
 # Authors: B.J. Gross and P.J. Atzberger

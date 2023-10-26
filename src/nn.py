@@ -1,5 +1,5 @@
 """
-  .. image:: overview.png
+  .. image:: overview.png 
 
   PyTorch implementation of GMLS-Nets.  Module for neural networks for 
   processing scattered data sets using Generalized Moving Least Squares (GMLS).

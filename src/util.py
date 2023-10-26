@@ -1,5 +1,5 @@
 """
-  Collection of utility routines.
+  Collection of utility routines. 
 """
 
 # Authors: B.J. Gross and P.J. Atzberger

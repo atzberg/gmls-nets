@@ -1,6 +1,6 @@
 """
-  Collection of routines helpful for visualizing results and generating figures.
-"""
+  Collection of routines helpful for visualizing results and generating figures. 
+""" 
 
 # Authors: B.J. Gross and P.J. Atzberger
 # Website: http://atzberger.org/
