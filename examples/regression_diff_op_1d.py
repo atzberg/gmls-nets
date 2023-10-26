@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# coding: utf-8
+# coding: utf-8 
 
 # ## GMLS-Nets: 1D Regression of Linear and Non-linear Operators $L[u]$.
 # 
