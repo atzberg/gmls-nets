@@ -4,7 +4,7 @@
 <img src="misc/overview.png" width = "100%" />
 </div>
 
-[Examples](https://github.com/atzberg/gmls-nets/tree/master/examples) | [Documentation](http://web.math.ucsb.edu/~atzberg/gmlsnets_docs/html/index.html) 
+[Examples](https://github.com/atzberg/gmls-nets/tree/master/examples) | [Documentation](https://web.atzberger.org/gmlsnets_docs/html/index.html) 
 
 __GMLS-Nets (PyTorch Implementation)__
 
@@ -42,7 +42,7 @@ For examples and documentation, see
 
 [Examples](https://github.com/atzberg/gmls-nets/tree/master/examples)
 
-[Documentation](http://web.math.ucsb.edu/~atzberg/gmlsnets_docs/html/index.html)
+[Documentation](https://web.atzberger.org/gmlsnets_docs/html/index.html)
 
 __Additional Information__
 
@@ -68,4 +68,4 @@ We gratefully acknowledge support from DOE Grant ASCR PHILMS DE-SC0019246.
 ----
 
 
-[Examples](https://github.com/atzberg/gmls-nets/tree/master/examples) | [Documentation](http://web.math.ucsb.edu/~atzberg/gmlsnets_docs/html/index.html) | [Atzberger Homepage](http://atzberger.org/)
+[Examples](https://github.com/atzberg/gmls-nets/tree/master/examples) | [Documentation](https://web.atzberger.org/gmlsnets_docs/html/index.html) | [Atzberger Homepage](http://atzberger.org/)
