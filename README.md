@@ -65,10 +65,11 @@ For [TensorFlow](https://www.tensorflow.org/) implementation of GMLS-Nets, see h
 __Acknowledgements__
 We gratefully acknowledge support from DOE Grant ASCR PHILMS DE-SC0019246.
 
-----
-
 __Additional Information__ <br>
 https://web.atzberger.org/
+
+----
+
 
 
 [Examples](https://github.com/atzberg/gmls-nets/tree/master/examples) | [Documentation](https://web.atzberger.org/gmlsnets_docs/html/index.html) | [Atzberger Homepage](http://atzberger.org/)
